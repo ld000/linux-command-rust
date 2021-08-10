@@ -9,3 +9,5 @@ edition = "2018"
 [dependencies]
 structopt = "0.3.22"
 colored = "2"
+libc = "0.2"
+users = "0.11"
